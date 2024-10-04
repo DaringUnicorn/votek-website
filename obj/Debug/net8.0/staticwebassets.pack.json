@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\doners-marvelous-site.webflow.css"
     },
     {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\doners-stupendous-site-28ddc4.webflow.css",
+      "PackagePath": "staticwebassets\\css\\doners-stupendous-site-28ddc4.webflow.css"
+    },
+    {
       "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\normalize.css",
       "PackagePath": "staticwebassets\\css\\normalize.css"
     },
@@ -41,6 +45,10 @@
       "PackagePath": "staticwebassets\\images\\Icon-3.svg"
     },
     {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\arrow_1arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow_1arrow.png"
+    },
+    {
       "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\business-logo2x-p-130x130q80.png",
       "PackagePath": "staticwebassets\\images\\business-logo2x-p-130x130q80.png"
     },
@@ -53,8 +61,72 @@
       "PackagePath": "staticwebassets\\images\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\logo-pattern-1-p-130x130q80.png",
+      "PackagePath": "staticwebassets\\images\\logo-pattern-1-p-130x130q80.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\logo-pattern-1.png",
+      "PackagePath": "staticwebassets\\images\\logo-pattern-1.png"
+    },
+    {
       "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\menu-icon_1menu-icon.png",
       "PackagePath": "staticwebassets\\images\\menu-icon_1menu-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\noise-p-130x130q80.png",
+      "PackagePath": "staticwebassets\\images\\noise-p-130x130q80.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\noise.png",
+      "PackagePath": "staticwebassets\\images\\noise.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-130x130q80.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1-p-130x130q80.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-1600.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1-p-1600.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1-p-500.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1-p-800.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-tima-miroshnichenko-6670794-1-p-800.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-tima-miroshnichenko-6670794-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-yan-krukov-8519867-1-p-130x130q80.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-yan-krukov-8519867-1-p-130x130q80.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-yan-krukov-8519867-1.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-yan-krukov-8519867-1.jpg"
     },
     {
       "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\placeholder-1.svg",

@@ -23,6 +23,41 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult About()
+    {
+        return View();
+    }
+
+    public IActionResult Blog()
+    {
+        return View();
+    }
+
+    public IActionResult Contact()
+    {
+        return View();
+    }
+
+    public IActionResult DetailPost()
+    {
+        return View();
+    }
+
+    public IActionResult Projects()
+    {
+        return View();
+    }
+
+    public IActionResult Styleguide()
+    {
+        return View();
+    }
+
+    public IActionResult Team()
+    {
+        return View();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

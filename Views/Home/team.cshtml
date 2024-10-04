@@ -1,23 +1,6 @@
 
 <body>
-  <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-    <div class="navigation-wrap">
-      <a href="index.html" class="logo-link w-nav-brand"><img src="images/business-logo2x.png" width="108" alt="" class="logo-image"></a>
-      <div class="menu">
-        <nav role="navigation" class="navigation-items w-nav-menu">
-          <a href="about.html" class="navigation-item w-nav-link">About</a>
-          <a href="projects.html" class="navigation-item w-nav-link">Work</a>
-          <a href="team.html" aria-current="page" class="navigation-item w-nav-link w--current">team</a>
-          <a href="blog.html" class="navigation-item w-nav-link">Blog</a>
-          <a href="contact.html" class="navigation-item w-nav-link">Contact</a>
-        </nav>
-        <div class="menu-button w-nav-button"><img src="images/menu-icon_1menu-icon.png" width="22" alt="" class="menu-icon"></div>
-      </div>
-      <a href="mailto:mail@business.com?subject=You&#x27;ve%20got%20mail!" class="button cc-contact-us w-inline-block">
-        <div>Contact us</div>
-      </a>
-    </div>
-  </div>
+ 
   <div class="section cc-home-wrap">
     <div class="intro-header cc-subpage">
       <div class="intro-content">
@@ -85,7 +68,7 @@
             <div class="heading-jumbo-small">Grow your business.<br></div>
             <div class="paragraph-bigger cc-bigger-light">Today is the day to build the business of your dreams. Share your mission with the world — and blow your customers away.<br></div>
           </div>
-          <a href="contact.html" class="button cc-jumbo-button w-inline-block">
+          <a asp-controller="Home" asp-action="Contact"  class="button cc-jumbo-button w-inline-block">
             <div>Start Now</div>
           </a>
         </div>
@@ -95,7 +78,7 @@
   <div class="section">
     <div class="container">
       <div class="footer-wrap">
-        <a href="https://webflow.com/" target="_blank" class="webflow-link w-inline-block"><img src="images/webflow-w-small2x_1webflow-w-small2x.png" width="15" alt="" class="webflow-logo-tiny">
+        <a href="https://webflow.com/" target="_blank" class="webflow-link w-inline-block"><img src="~/images/webflow-w-small2x_1webflow-w-small2x.png" width="15" alt="" class="webflow-logo-tiny">
           <div class="paragraph-tiny">Powered by Webflow</div>
         </a>
       </div>

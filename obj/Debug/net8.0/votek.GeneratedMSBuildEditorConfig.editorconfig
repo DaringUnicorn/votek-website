@@ -26,44 +26,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVw0MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/about.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
+[C:/Users/pc/Desktop/votek/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/blog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nLmNzaHRtbA==
+[C:/Users/pc/Desktop/votek/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
+[C:/Users/pc/Desktop/votek/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/detail_post.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkZXRhaWxfcG9zdC5jc2h0bWw=
+[C:/Users/pc/Desktop/votek/Views/Home/DetailPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxQb3N0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+[C:/Users/pc/Desktop/votek/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
+[C:/Users/pc/Desktop/votek/Views/Home/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/projects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9qZWN0cy5jc2h0bWw=
+[C:/Users/pc/Desktop/votek/Views/Home/Styleguide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHlsZWd1aWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/pc/Desktop/votek/Views/Home/styleguide.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdHlsZWd1aWRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/pc/Desktop/votek/Views/Home/team.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZWFtLmNzaHRtbA==
+[C:/Users/pc/Desktop/votek/Views/Home/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/pc/Desktop/votek/Views/Shared/Error.cshtml]
@@ -72,6 +64,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/pc/Desktop/votek/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/votek/Views/Sign/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/votek/Views/Sign/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/votek/Views/Welcome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/votek/Views/Work/Project1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xQcm9qZWN0MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/votek/Views/Work/Project2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xQcm9qZWN0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/votek/Views/Work/Project3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xQcm9qZWN0My5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/pc/Desktop/votek/Views/_ViewImports.cshtml]
