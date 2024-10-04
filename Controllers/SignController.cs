@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using votek.Data;  // DbContext'i buradan kullanacağız
-using Microsoft.AspNetCore.Identity; // Şifre hashleme için gerekli
+using votek.Data; // DbContext'i buradan kullanacağız
+using Microsoft.AspNetCore.Identity;
+using System.Threading.Tasks;
 
 namespace votek.Controllers
 {
@@ -16,13 +17,46 @@ namespace votek.Controllers
             _passwordHasher = new PasswordHasher<User>();
         }
 
-
         public IActionResult Login()
         {
             return View();
         }
 
-        // Register sayfası için GET metodu
+        // Login işlemi için POST metodu
+        [HttpPost]
+        public IActionResult Login(User model)
+        {
+            if (ModelState.IsValid)
+            {
+                // Veritabanında email'e göre kullanıcıyı buluyoruz
+                var user = _context.Users.FirstOrDefault(u => u.Email == model.Email);
+
+                if (user == null)
+                {
+                    // Eğer kullanıcı bulunamazsa, hatayı bildiriyoruz
+                    ModelState.AddModelError(string.Empty, "Invalid email or password.");
+                    return View(model);
+                }
+
+                // Şifreyi doğruluyoruz
+                var result = _passwordHasher.VerifyHashedPassword(user, user.Password, model.Password);
+                if (result == PasswordVerificationResult.Success)
+                {
+                    // Eğer şifre doğrulandıysa, login başarılı
+                    ViewBag.Message = "Login successful!";
+                    return RedirectToAction("Index", "Home"); // Başarılıysa anasayfaya yönlendiriyoruz
+                }
+                else
+                {
+                    // Şifre yanlışsa
+                    ModelState.AddModelError(string.Empty, "Invalid email or password.");
+                }
+            }
+
+            // Model valid değilse veya giriş başarısızsa aynı sayfaya dön
+            return View(model);
+        }
+
         [HttpGet]
         public IActionResult Register()
         {
@@ -51,14 +85,13 @@ namespace votek.Controllers
                     _context.Users.Add(model);
                     await _context.SaveChangesAsync();
 
-                    // Başarılı kayıt işleminden sonra yönlendirme
-                    return RedirectToAction("Index", "Home");
+                    // Başarılı kayıt işleminden sonra login sayfasına yönlendirme
+                    return RedirectToAction("Login", "Sign");
                 }
                 catch (Exception ex)
                 {
                     // Hata durumunda loglama ve kullanıcıya bilgi verme
                     ModelState.AddModelError(string.Empty, "An error occurred while saving the user. Please try again.");
-                    // Hatanın loglanması (isteğe bağlı olarak bir logging mekanizması kullanılabilir)
                     Console.WriteLine(ex.Message);
                 }
             }
@@ -66,6 +99,5 @@ namespace votek.Controllers
             // Eğer model valid değilse veya hata oluşursa, Register sayfasına geri dön
             return View(model);
         }
-
     }
 }

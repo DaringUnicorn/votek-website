@@ -11,8 +11,15 @@ builder.Services.AddDbContext<DataContext>(options =>{
     var config = builder.Configuration;
     var connectionString = config.GetConnectionString("database");
     options.UseMySQL(connectionString);
+    
 });
-
+builder.Services.AddAuthentication("MyCookieAuth")
+    .AddCookie("MyCookieAuth", options =>
+    {
+        options.Cookie.Name = "MyAuthCookie";
+        options.LoginPath = "/Sign/Login"; // Oturum açılmadığında yönlendirilecek sayfa
+        options.AccessDeniedPath = "/Sign/AccessDenied"; // Yetkisiz erişimlerde yönlendirilecek sayfa
+    });
 
 var app = builder.Build();
  
@@ -28,6 +35,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication(); 
 
 app.UseAuthorization();
 
