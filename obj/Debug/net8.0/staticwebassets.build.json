@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r+mkGgIfuIezC9Tl1wvjvitwQf+rxM6uzQSQ91T31RQ=",
+  "Hash": "CgGbg1+mO3vnGcCBWwWSQfMUMYshUS7M3848EAKm3Dw=",
   "Source": "votek",
   "BasePath": "_content/votek",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "votek\\wwwroot",
       "Source": "votek",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\obj\\Debug\\net8.0\\scopedcss\\bundle\\votek.styles.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\obj\\Debug\\net8.0\\scopedcss\\bundle\\votek.styles.css",
       "SourceId": "votek",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/votek",
       "RelativePath": "votek.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pc\\Desktop\\votek\\obj\\Debug\\net8.0\\scopedcss\\bundle\\votek.styles.css"
+      "OriginalItemSpec": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\obj\\Debug\\net8.0\\scopedcss\\bundle\\votek.styles.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\votek.bundle.scp.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\votek.bundle.scp.css",
       "SourceId": "votek",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/votek",
       "RelativePath": "votek.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pc\\Desktop\\votek\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\votek.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\votek.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\doners-marvelous-site.webflow.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\doners-marvelous-site.webflow.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "css/doners-marvelous-site.webflow.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\doners-marvelous-site.webflow.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\doners-stupendous-site-28ddc4.webflow.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\doners-stupendous-site-28ddc4.webflow.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "css/doners-stupendous-site-28ddc4.webflow.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\doners-stupendous-site-28ddc4.webflow.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\normalize.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\normalize.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "css/normalize.css",
       "AssetKind": "All",
@@ -112,10 +112,29 @@
       "OriginalItemSpec": "wwwroot\\css\\normalize.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\product.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
+      "BasePath": "_content/votek",
+      "RelativePath": "css/product.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\product.css"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\site.css",
+      "SourceId": "votek",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\webflow.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\webflow.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "css/webflow.css",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webflow.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\favicon.ico",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\arrow_1arrow.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\arrow_1arrow.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/arrow_1arrow.png",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\arrow_1arrow.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\business-logo2x-p-130x130q80.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\business-logo2x-p-130x130q80.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/business-logo2x-p-130x130q80.png",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\business-logo2x-p-130x130q80.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\business-logo2x.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\business-logo2x.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/business-logo2x.png",
       "AssetKind": "All",
@@ -226,10 +245,29 @@
       "OriginalItemSpec": "wwwroot\\images\\business-logo2x.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\favicon.ico",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Drone.jpg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
+      "BasePath": "_content/votek",
+      "RelativePath": "images/Drone.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Drone.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\favicon.ico",
+      "SourceId": "votek",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -245,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\favicon.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\favicon.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/favicon.png",
       "AssetKind": "All",
@@ -264,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\Icon-1_1.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Icon-1_1.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/Icon-1_1.svg",
       "AssetKind": "All",
@@ -283,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Icon-1_1.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\Icon-1.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Icon-1.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/Icon-1.svg",
       "AssetKind": "All",
@@ -302,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Icon-1.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\Icon-2.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Icon-2.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/Icon-2.svg",
       "AssetKind": "All",
@@ -321,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Icon-2.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\Icon-3.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Icon-3.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/Icon-3.svg",
       "AssetKind": "All",
@@ -340,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Icon-3.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\logo-pattern-1-p-130x130q80.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\logo-pattern-1-p-130x130q80.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/logo-pattern-1-p-130x130q80.png",
       "AssetKind": "All",
@@ -359,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-pattern-1-p-130x130q80.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\logo-pattern-1.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\logo-pattern-1.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/logo-pattern-1.png",
       "AssetKind": "All",
@@ -378,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-pattern-1.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\menu-icon_1menu-icon.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\menu-icon_1menu-icon.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/menu-icon_1menu-icon.png",
       "AssetKind": "All",
@@ -397,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu-icon_1menu-icon.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\noise-p-130x130q80.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\noise-p-130x130q80.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/noise-p-130x130q80.png",
       "AssetKind": "All",
@@ -416,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noise-p-130x130q80.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\noise.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\noise.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/noise.png",
       "AssetKind": "All",
@@ -435,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noise.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-130x130q80.jpeg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-130x130q80.jpeg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-fauxels-3184432-1-1-p-130x130q80.jpeg",
       "AssetKind": "All",
@@ -454,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-fauxels-3184432-1-1-p-130x130q80.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-1600.jpeg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-1600.jpeg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-fauxels-3184432-1-1-p-1600.jpeg",
       "AssetKind": "All",
@@ -473,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-fauxels-3184432-1-1-p-1600.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-500.jpeg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-500.jpeg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-fauxels-3184432-1-1-p-500.jpeg",
       "AssetKind": "All",
@@ -492,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-fauxels-3184432-1-1-p-500.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-800.jpeg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-800.jpeg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-fauxels-3184432-1-1-p-800.jpeg",
       "AssetKind": "All",
@@ -511,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-fauxels-3184432-1-1-p-800.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1.jpg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1.jpg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-fauxels-3184432-1-1.jpg",
       "AssetKind": "All",
@@ -530,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-fauxels-3184432-1-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg",
       "AssetKind": "All",
@@ -549,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg",
       "AssetKind": "All",
@@ -568,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-800.jpeg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-800.jpeg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-tima-miroshnichenko-6670794-1-p-800.jpeg",
       "AssetKind": "All",
@@ -587,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-800.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1.jpg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1.jpg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-tima-miroshnichenko-6670794-1.jpg",
       "AssetKind": "All",
@@ -606,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-yan-krukov-8519867-1-p-130x130q80.jpeg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-yan-krukov-8519867-1-p-130x130q80.jpeg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-yan-krukov-8519867-1-p-130x130q80.jpeg",
       "AssetKind": "All",
@@ -625,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-yan-krukov-8519867-1-p-130x130q80.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-yan-krukov-8519867-1.jpg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-yan-krukov-8519867-1.jpg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/pexels-yan-krukov-8519867-1.jpg",
       "AssetKind": "All",
@@ -644,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pexels-yan-krukov-8519867-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\placeholder-1.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\placeholder-1.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/placeholder-1.svg",
       "AssetKind": "All",
@@ -663,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholder-1.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\placeholder-3.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\placeholder-3.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/placeholder-3.svg",
       "AssetKind": "All",
@@ -682,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholder-3.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\portfolio-1---wide.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\portfolio-1---wide.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/portfolio-1---wide.svg",
       "AssetKind": "All",
@@ -701,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio-1---wide.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\portfolio-2---wide.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\portfolio-2---wide.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/portfolio-2---wide.svg",
       "AssetKind": "All",
@@ -720,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio-2---wide.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\portfolio-3---wide.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\portfolio-3---wide.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/portfolio-3---wide.svg",
       "AssetKind": "All",
@@ -739,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio-3---wide.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\portfolio-4---wide.svg",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\portfolio-4---wide.svg",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/portfolio-4---wide.svg",
       "AssetKind": "All",
@@ -758,10 +796,29 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio-4---wide.svg"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\webclip.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\video.mp4",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
+      "BasePath": "_content/votek",
+      "RelativePath": "images/video.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\video.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\webclip.png",
+      "SourceId": "votek",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/webclip.png",
       "AssetKind": "All",
@@ -777,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\webclip.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\webflow-w-small2x_1webflow-w-small@2x.png",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\webflow-w-small2x_1webflow-w-small@2x.png",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "images/webflow-w-small2x_1webflow-w-small@2x.png",
       "AssetKind": "All",
@@ -796,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\webflow-w-small2x_1webflow-w-small@2x.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\js\\site.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -815,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\js\\webflow.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\js\\webflow.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "js/webflow.js",
       "AssetKind": "All",
@@ -834,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\js\\webflow.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -853,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -872,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -891,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -910,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -929,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -948,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -967,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -986,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1005,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1024,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1043,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1062,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1081,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1100,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1119,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1138,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1157,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1176,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1195,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1214,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1233,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1252,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1271,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1309,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1328,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1347,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1366,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1385,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1404,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1423,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1461,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1480,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1499,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1518,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1537,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1556,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1575,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1594,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1613,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1632,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1651,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1670,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1689,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1708,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1727,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1746,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1765,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1784,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1803,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1822,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1841,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1860,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1879,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1898,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "votek",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\",
       "BasePath": "_content/votek",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

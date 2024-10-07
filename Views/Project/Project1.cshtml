@@ -1,0 +1,103 @@
+@{
+Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/product.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="video-header">
+        <div class="overlay">
+            <h1>CT33s</h1>
+        </div>
+     <video autoplay loop muted>
+            <source src="~/images/video.mp4" type="video/mp4">
+            Tarayıcınız video etiketini desteklemiyor.
+        </video>
+    </header>
+    <section class="table-section">
+        <div class="table-container">
+            <table>
+                <tr>
+                    <td>IP67</td>
+                    <td>Yüksek Dayanıklılık</td>
+                </tr>
+                <tr>
+                    <td>33 L</td>
+                    <td>Sıvı Tankı</td>
+                </tr>
+                <tr>
+                    <td>50 L</td>
+                    <td>Serpme Sistemi</td>
+                </tr>
+                <tr>
+                    <td>0-40°C</td>
+                    <td>Çalışma Sıcaklığı</td>
+                </tr>
+                <tr>
+                    <td>42.7 Kg</td>
+                    <td>Max Yük Kapasitesi</td>
+                </tr>
+                <tr>
+                    <td>7.5 Dakika</td>
+                    <td>Yüklü Uçuş Süresi</td>
+                </tr>
+                <tr>
+                    <td>14.8 Dakika</td>
+                    <td>Yüksüz Uçuş Süresi</td>
+                </tr>
+                <tr>
+                    <td>30 Kg</td>
+                    <td>Max Yük Taşıma Kapasitesi</td>
+                </tr>
+                <tr>
+                    <td>8-12 m</td>
+                    <td>Uygulanabilir Granül</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+    <section class="features-section">
+        <div class="feature-item">
+            <div class="feature-icon">📡</div>
+            <div class="feature-title">Hassas Radar Sistemi</div>
+            <div class="feature-description">Hassas Radar Sistemi</div>
+        </div>
+        <div class="feature-item">
+            <div class="feature-icon">↔️</div>
+            <div class="feature-title">Peristaltik Pompa</div>
+            <div class="feature-description">Peristaltik Pompa</div>
+        </div>
+        <div class="feature-item">
+            <div class="feature-icon">💧</div>
+            <div class="feature-title">IP67</div>
+            <div class="feature-description">Yüksek Dayanıklılık</div>
+        </div>
+        <div class="feature-item">
+            <div class="feature-icon">🌧️</div>
+            <div class="feature-title">50L</div>
+            <div class="feature-description">Serpme Sistemi</div>
+        </div>
+    </section>
+    
+    <script>
+        // Scroll animasyonu eklemek için JavaScript
+        document.addEventListener('scroll', function() {
+            const sections = document.querySelectorAll('.table-section, .features-section');
+            const scrollPos = window.scrollY + window.innerHeight;
+
+            sections.forEach(section => {
+                if (scrollPos > section.offsetTop) {
+                    section.style.opacity = 1;
+                    section.style.transform = 'translateY(0)';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

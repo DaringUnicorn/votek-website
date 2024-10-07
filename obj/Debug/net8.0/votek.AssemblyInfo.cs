@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("votek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8f9576eec07a649916f3e34897ac3d51da4ef4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("votek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("votek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

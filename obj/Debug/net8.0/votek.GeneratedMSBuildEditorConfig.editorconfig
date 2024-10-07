@@ -9,95 +9,103 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = votek
 build_property.RootNamespace = votek
-build_property.ProjectDir = C:\Users\pc\Desktop\votek\
+build_property.ProjectDir = C:\Users\pc\Desktop\VOTEK WEBSITE\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\pc\Desktop\votek
+build_property.MSBuildProjectDirectory = C:\Users\pc\Desktop\VOTEK WEBSITE\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/401.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/401.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVw0MDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/404.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVw0MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/Blog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/DetailPost.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/DetailPost.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxQb3N0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/detail_post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkZXRhaWxfcG9zdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/Projects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0cy5jc2h0bWw=
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/DroneDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEcm9uZURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/Styleguide.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHlsZWd1aWRlLmNzaHRtbA==
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Home/Team.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Shared/Error.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/styleguide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdHlsZWd1aWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Home/team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Project/Project1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxQcm9qZWN0MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Project/Project2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxQcm9qZWN0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Project/Project3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxQcm9qZWN0My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Sign/Login.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Sign/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Sign/Register.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Sign/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Welcome/Index.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Welcome/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Work/Project1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xQcm9qZWN0MS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/pc/Desktop/votek/Views/Work/Project2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xQcm9qZWN0Mi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/pc/Desktop/votek/Views/Work/Project3.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xQcm9qZWN0My5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/pc/Desktop/votek/Views/_ViewImports.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/_ViewStart.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pc/Desktop/votek/Views/Shared/_Layout.cshtml]
+[C:/Users/pc/Desktop/VOTEK WEBSITE/2votek-website ( CONTACT ENTEGRE EDİLMİŞ )/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7sraubzrh9

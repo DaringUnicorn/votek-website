@@ -13,6 +13,11 @@ builder.Services.AddDbContext<DataContext>(options =>{
     options.UseMySQL(connectionString);
     
 });
+
+
+builder.Services.AddScoped<IUserRepository, EfUserRepository>();
+
+
 builder.Services.AddAuthentication("MyCookieAuth")
     .AddCookie("MyCookieAuth", options =>
     {
@@ -37,7 +42,7 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthentication(); 
 
-app.UseAuthorization();
+app.UseAuthorization();  
 
 app.MapControllerRoute(
     name: "default",

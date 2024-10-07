@@ -1,399 +1,411 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\votek.bundle.scp.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\votek.bundle.scp.css",
       "PackagePath": "staticwebassets\\votek.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\doners-marvelous-site.webflow.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\doners-marvelous-site.webflow.css",
       "PackagePath": "staticwebassets\\css\\doners-marvelous-site.webflow.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\doners-stupendous-site-28ddc4.webflow.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\doners-stupendous-site-28ddc4.webflow.css",
       "PackagePath": "staticwebassets\\css\\doners-stupendous-site-28ddc4.webflow.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\normalize.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\normalize.css",
       "PackagePath": "staticwebassets\\css\\normalize.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\css\\webflow.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\css\\webflow.css",
       "PackagePath": "staticwebassets\\css\\webflow.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\Icon-1.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Drone.jpg",
+      "PackagePath": "staticwebassets\\images\\Drone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Icon-1.svg",
       "PackagePath": "staticwebassets\\images\\Icon-1.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\Icon-1_1.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Icon-1_1.svg",
       "PackagePath": "staticwebassets\\images\\Icon-1_1.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\Icon-2.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Icon-2.svg",
       "PackagePath": "staticwebassets\\images\\Icon-2.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\Icon-3.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\Icon-3.svg",
       "PackagePath": "staticwebassets\\images\\Icon-3.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\arrow_1arrow.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\arrow_1arrow.png",
       "PackagePath": "staticwebassets\\images\\arrow_1arrow.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\business-logo2x-p-130x130q80.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\business-logo2x-p-130x130q80.png",
       "PackagePath": "staticwebassets\\images\\business-logo2x-p-130x130q80.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\business-logo2x.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\business-logo2x.png",
       "PackagePath": "staticwebassets\\images\\business-logo2x.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\favicon.ico",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\favicon.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\logo-pattern-1-p-130x130q80.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\logo-pattern-1-p-130x130q80.png",
       "PackagePath": "staticwebassets\\images\\logo-pattern-1-p-130x130q80.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\logo-pattern-1.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\logo-pattern-1.png",
       "PackagePath": "staticwebassets\\images\\logo-pattern-1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\menu-icon_1menu-icon.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\menu-icon_1menu-icon.png",
       "PackagePath": "staticwebassets\\images\\menu-icon_1menu-icon.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\noise-p-130x130q80.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\noise-p-130x130q80.png",
       "PackagePath": "staticwebassets\\images\\noise-p-130x130q80.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\noise.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\noise.png",
       "PackagePath": "staticwebassets\\images\\noise.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-130x130q80.jpeg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-130x130q80.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1-p-130x130q80.jpeg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-1600.jpeg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-1600.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1-p-1600.jpeg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-500.jpeg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-500.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1-p-500.jpeg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-800.jpeg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1-p-800.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1-p-800.jpeg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-fauxels-3184432-1-1.jpg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-fauxels-3184432-1-1.jpg",
       "PackagePath": "staticwebassets\\images\\pexels-fauxels-3184432-1-1.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-tima-miroshnichenko-6670794-1-p-1080.jpeg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-tima-miroshnichenko-6670794-1-p-130x130q80.jpeg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-800.jpeg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1-p-800.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-tima-miroshnichenko-6670794-1-p-800.jpeg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1.jpg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-tima-miroshnichenko-6670794-1.jpg",
       "PackagePath": "staticwebassets\\images\\pexels-tima-miroshnichenko-6670794-1.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-yan-krukov-8519867-1-p-130x130q80.jpeg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-yan-krukov-8519867-1-p-130x130q80.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-yan-krukov-8519867-1-p-130x130q80.jpeg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\pexels-yan-krukov-8519867-1.jpg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\pexels-yan-krukov-8519867-1.jpg",
       "PackagePath": "staticwebassets\\images\\pexels-yan-krukov-8519867-1.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\placeholder-1.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\placeholder-1.svg",
       "PackagePath": "staticwebassets\\images\\placeholder-1.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\placeholder-3.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\placeholder-3.svg",
       "PackagePath": "staticwebassets\\images\\placeholder-3.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\portfolio-1---wide.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\portfolio-1---wide.svg",
       "PackagePath": "staticwebassets\\images\\portfolio-1---wide.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\portfolio-2---wide.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\portfolio-2---wide.svg",
       "PackagePath": "staticwebassets\\images\\portfolio-2---wide.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\portfolio-3---wide.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\portfolio-3---wide.svg",
       "PackagePath": "staticwebassets\\images\\portfolio-3---wide.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\portfolio-4---wide.svg",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\portfolio-4---wide.svg",
       "PackagePath": "staticwebassets\\images\\portfolio-4---wide.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\webclip.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\video.mp4",
+      "PackagePath": "staticwebassets\\images\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\webclip.png",
       "PackagePath": "staticwebassets\\images\\webclip.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\images\\webflow-w-small2x_1webflow-w-small@2x.png",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\images\\webflow-w-small2x_1webflow-w-small@2x.png",
       "PackagePath": "staticwebassets\\images\\webflow-w-small2x_1webflow-w-small@2x.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\js\\webflow.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\js\\webflow.js",
       "PackagePath": "staticwebassets\\js\\webflow.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\Desktop\\votek\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\pc\\Desktop\\VOTEK WEBSITE\\2votek-website ( CONTACT ENTEGRE EDİLMİŞ )\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,7 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
-using votek.Data; // DbContext'i buradan kullanacağız
+using votek.Data;
 using Microsoft.AspNetCore.Identity;
 using System.Threading.Tasks;
+using votek.Models; // ViewModel'leri buradan kullanacağız
+using System.Linq;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 
 namespace votek.Controllers
 {
@@ -9,14 +14,16 @@ namespace votek.Controllers
     {
         private readonly DataContext _context;
         private readonly PasswordHasher<User> _passwordHasher;
+        private readonly IUserRepository _userRepository;
 
         // Dependency Injection ile DbContext ve PasswordHasher'ı alıyoruz
-        public SignController(DataContext context)
+        public SignController(DataContext context, IUserRepository userRepository)
         {
             _context = context;
             _passwordHasher = new PasswordHasher<User>();
         }
 
+        [HttpGet]
         public IActionResult Login()
         {
             return View();
@@ -24,38 +31,51 @@ namespace votek.Controllers
 
         // Login işlemi için POST metodu
         [HttpPost]
-        public IActionResult Login(User model)
+        public async Task<IActionResult> Login(LoginViewModel model)
         {
             if (ModelState.IsValid)
             {
-                // Veritabanında email'e göre kullanıcıyı buluyoruz
-                var user = _context.Users.FirstOrDefault(u => u.Email == model.Email);
+                // Kullanıcıyı email ve şifre ile sorguluyoruz
+                var isUser = _userRepository.Users.FirstOrDefault(x => x.Email == model.Email && x.Password == model.Password);
 
-                if (user == null)
+                if (isUser != null)
                 {
-                    // Eğer kullanıcı bulunamazsa, hatayı bildiriyoruz
-                    ModelState.AddModelError(string.Empty, "Invalid email or password.");
-                    return View(model);
-                }
+                    var userClaims = new List<Claim>
+            {
+                new Claim(ClaimTypes.NameIdentifier, isUser.Id.ToString()),
+                new Claim(ClaimTypes.Name, isUser.Name ?? ""),
+                new Claim(ClaimTypes.Email, isUser.Email ?? "")
+            };
 
-                // Şifreyi doğruluyoruz
-                var result = _passwordHasher.VerifyHashedPassword(user, user.Password, model.Password);
-                if (result == PasswordVerificationResult.Success)
-                {
-                    // Eğer şifre doğrulandıysa, login başarılı
-                    ViewBag.Message = "Login successful!";
-                    return RedirectToAction("Index", "Home"); // Başarılıysa anasayfaya yönlendiriyoruz
+                    // Kullanıcı giriş bilgilerini ve özelliklerini tanımlıyoruz
+                    var claimsIdentity = new ClaimsIdentity(userClaims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+                    var authProperties = new AuthenticationProperties
+                    {
+                        IsPersistent = true
+                    };
+
+                    // Önce mevcut oturumu kapatıyoruz ve ardından yeni oturum açıyoruz
+                    await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+                    await HttpContext.SignInAsync(
+                        CookieAuthenticationDefaults.AuthenticationScheme,
+                        new ClaimsPrincipal(claimsIdentity),
+                        authProperties
+                    );
+
+                    // Giriş başarılı, yönlendirme yapıyoruz (index sayfasına yönlendirme yapabilirsiniz)
+                    return RedirectToAction("Index", "Home");
                 }
                 else
                 {
-                    // Şifre yanlışsa
-                    ModelState.AddModelError(string.Empty, "Invalid email or password.");
+                    ModelState.AddModelError("", "Invalid email or password");
                 }
             }
 
-            // Model valid değilse veya giriş başarısızsa aynı sayfaya dön
+            // Model geçerli değilse veya giriş başarısızsa aynı sayfaya geri dönüyoruz
             return View(model);
         }
+
 
         [HttpGet]
         public IActionResult Register()
@@ -93,6 +113,14 @@ namespace votek.Controllers
                     // Hata durumunda loglama ve kullanıcıya bilgi verme
                     ModelState.AddModelError(string.Empty, "An error occurred while saving the user. Please try again.");
                     Console.WriteLine(ex.Message);
+                }
+            }
+            else
+            {
+                // ModelState geçerli değilse hataları kullanıcıya bildiririz
+                foreach (var modelStateError in ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    Console.WriteLine(modelStateError.ErrorMessage); // Hataları console'da yazdır
                 }
             }
 
